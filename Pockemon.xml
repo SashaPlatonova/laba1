@@ -1,0 +1,27 @@
+    <Pockemons>
+		<name> MagikPoc1 </name>
+		<HP> 100 </HP>
+		<Attack> 5 </Attack>
+		<special_attack> Moonblast </special_attack>
+		<special_defense> Magic shield </special_defense>
+		<speed> 80 </speed>
+		<enemy_name> WarPoc </enemy_name>
+	</Pockemons> 
+	<Pockemons> 
+		<name> WarPoc1 </name>
+		<HP> 100 </HP>
+		<Attack> 10 </Attack>
+		<special_attack> Cross_Chop </special_attack>
+		<special_defense> Karate </special_defense>
+		<speed> 35 </speed>
+		<enemy_name> MagicPoc </enemy_name>
+	</Pockemons> 
+	<Pockemons> 
+		<name> Firepoc1 </name>
+		<HP> 300 </HP>
+		<Attack> 100 </Attack>
+		<special_attack> HeatWave </special_attack>
+		<special_defense> Fire shield </special_defense>
+		<speed> 50 </speed>
+		<enemy_name> WarPoc </enemy_name>
+	</Pockemons> 
