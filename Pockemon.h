@@ -30,6 +30,13 @@ public:
 
     void setHp(int hp);
 
+    void setAttack(int attack);
+
+    void setSpeed(int speed);
+
+    void setSpecialAttack(std::string specialAttack);
+
+    void setSpecialDefense(std::string specialDefense);
 };
 
 

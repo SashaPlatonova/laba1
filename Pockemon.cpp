@@ -36,7 +36,23 @@ int Pockemon::getAttack()  {
         return special_defense;
     }
 
-    Pockemon::~Pockemon() {
+    void Pockemon::setAttack(int attack) {
+        Pockemon::attack = attack;
+    }
+
+    void Pockemon::setSpecialAttack(std::string specialAttack) {
+        special_attack = specialAttack;
+    }
+
+    void Pockemon::setSpecialDefense( std::string specialDefense) {
+        special_defense = specialDefense;
+    }
+
+    void Pockemon::setSpeed(int speed) {
+        Pockemon::speed = speed;
+}
+
+Pockemon::~Pockemon() {
         }
 
 
